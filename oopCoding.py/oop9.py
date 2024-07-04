@@ -1,0 +1,2 @@
+#Magic Methods: Implement magic methods like `__str__()`, `__eq__()`, and `__add__()` in a class representing a complex number. 
+#These methods should define how objects of this class behave when converted to a string, compared for equality, and added together

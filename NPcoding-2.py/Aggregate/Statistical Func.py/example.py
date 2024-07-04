@@ -1,0 +1,20 @@
+import numpy as np
+a=np.array([1,2,3])
+b=np.array([4,3,5])
+sum=np.sum(a)
+print("sum:",sum)
+add=np.add(a,b)
+print("add",add)
+max=np.max(a)
+print("max:",max)
+maximum=np.maximum(a,b)
+print("maximum:",maximum)
+arr=np.random.rand(2,3)
+arr1=np.random.rand(2,3)
+print(arr)
+print(arr1)
+maxi=np.maximum(arr,arr1)
+print(maxi)
+print()
+
+
